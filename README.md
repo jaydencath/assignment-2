@@ -1,0 +1,1 @@
+I've completed the assignment inside of the Rest API demo's main method from the class instruction. This code will implement a food trivia API that randomly generates new trivia/ facts every time the console is ran.
